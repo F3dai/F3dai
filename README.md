@@ -2,6 +2,6 @@
 
 I am person
 
-See my website, it super cool!!
+I post stuff to my blog, sometimes. 
 
-[Cybergoat](https://www.cybergoat.co.uk)
+[CyberGoat](www.cybergoat.co.uk)
