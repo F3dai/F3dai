@@ -2,6 +2,6 @@
 
 I am person
 
-I post stuff to my blog, sometimes. 
+* insert something interesting * 
 
-[CyberGoat](www.cybergoat.co.uk)
+[sevanhayrapet.com](www.sevanhayrapet.co.uk)
